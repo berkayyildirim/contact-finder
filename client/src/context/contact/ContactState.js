@@ -61,3 +61,5 @@ const ContactState = props => {
         </ContactContext.Provider>
     )
 };
+
+export default ContactState;
